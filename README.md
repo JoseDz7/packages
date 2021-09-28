@@ -34,8 +34,8 @@ https://github.com/piratainformatico2/packages
 
 * `chmod +x *`
 
-* `./packages`
+* `./packages.sh`
 
 ---
-###### `By: José Díaz +52 2283821202` :stuck_out_tongue_winking_eye:
+###### `By: José Díaz +52 2283821202` 🤠🤠
 ---
