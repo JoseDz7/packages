@@ -6,3 +6,5 @@
 <details>
 <summary> ⚡ José Díaz ⚡ </summary>
 <br>
+
+- Hola Que tal soy José Díaz o sharkcode Mi objetivo es ser reconocido en la comunidad de la programación ⚡
