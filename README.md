@@ -19,3 +19,23 @@
 
 # Menu de Inicio
 ![Image text](https://github.com/piratainformatico2/packages/blob/main/Images/Screenshot_20210928-160040.png)
+
+## Instalacion :
+
+~~~
+https://github.com/piratainformatico2/packages
+~~~
+
+* `apt update && apt upgrade -y`
+
+* `git clone https://github.com/piratainformatico2/packages`
+
+* `cd packages`
+
+* `chmod +x *`
+
+* `./packages`
+
+---
+###### `By: José Díaz +52 2283821202` :stuck_out_tongue_winking_eye:
+---
