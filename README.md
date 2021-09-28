@@ -14,3 +14,8 @@
 - Si deceas contactarme >>> +52 2283821202 (MX) 🇲🇽
 
 - Si deseas apollarme con una estrella en mis repositorios >>> [sharkcode](https://github.com/piratainformatico2)
+
+</details>
+
+# Menu de Inicio
+![Image text](
