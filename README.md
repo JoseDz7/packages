@@ -37,6 +37,6 @@ https://github.com/piratainformatico2/packages
 * `./packages.sh`
 
 ---
-###### ` Puedes desofuscar pero no copiar!! ` 
+###### ` Puedes desofuscar, pero no copiar!! ` 
 ###### `By: José Díaz +52 2283821202` 🤠🤠
 ---
